@@ -1,3 +1,6 @@
 #!/bin/bash
 
+## adding sunshine
+./home/disk1of5/sunshine/sunshine.AppImage
+
 gamescope --mangoapp -e -- steam -steamdeck -steamos3
